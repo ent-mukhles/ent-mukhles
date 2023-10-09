@@ -1,4 +1,4 @@
-### Hi there 👋, Hey there!
+### Hey there!
 #### I'm a web developer
 ![I'm a web developer](https://scontent.fdac148-1.fna.fbcdn.net/v/t39.30808-6/366371187_101528059716012_1818275371250047127_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=52f669&_nc_ohc=jNgcrI7BhdcAX-maujI&_nc_ht=scontent.fdac148-1.fna&oh=00_AfCKoQHSfMytxDVsK1N9Kz86nBb-Tp7kgTfMzsPaumL7bw&oe=6528DAA1)
 
